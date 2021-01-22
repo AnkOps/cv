@@ -1,0 +1,74 @@
+.DP{
+
+  clip-path: circle(40.0% at 57% 46%);
+}
+
+h1{
+  font-size: 5.62rem;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.00rem;
+  margin-top: 0;
+  color:#66BFBF;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+hr{
+  border-style: none;     /*-- all other side's attribute set to none  */
+border-top-style: dotted; /*<!-- only top side's attribute changed to dotted -->*/
+border-color: grey;       /*<!-- border height has been removed so that a box doesn't form. The height hence is zero -->*/
+border-width: 5px;        /* <!-- specifies the height of the top side of the box -->*/
+width: 5%;
+}
+body{
+  text-align: center;
+font-family: 'Merriweather', serif;
+  background-color:  #EAF6F6;
+  margin-left: 0;
+  margin-top: 10%;
+}
+p{
+  margin-left: 0;
+  margin-top: 0;
+}
+
+
+.topNote{
+  background-color: #EAF6F6;
+  padding: 2%;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right:30%;
+  top:10%
+}
+.bottom-cloud{
+  position: absolute;
+  top:50%
+}
+.programming-gif{
+  height:40%;
+  width:40%;
+}
+.CAD-gif{
+  height:40%;
+  width:40%;
+}
+a{
+  color:#11999E;
+}
+.skill-row{
+  width:50%;
+  margin: auto;
+
+}
